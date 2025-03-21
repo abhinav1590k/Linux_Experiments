@@ -8,9 +8,7 @@
    ![image](https://github.com/user-attachments/assets/642c96d0-5a8b-446e-b3aa-41465baa0657)
    ![image](https://github.com/user-attachments/assets/5a382bf5-815d-42f5-a938-e4e838283dbe)
 
-4. Change the default umask for the operator1 user: ->
-    (a)Open the user’s .bashrc or .profile file: sudo nano /home/abhinav/.bashrc
-    (b)Add the following line to set the umask: umask 0074
+4. Change the default umask for the operator1 user: ->(a)Open the user’s .bashrc or .profile file: sudo nano /home/abhinav/.bashrc (b)Add the following line to set the umask: umask 0074
    ![image](https://github.com/user-attachments/assets/7f3a0433-b360-4511-a2b2-da5e85991bdc)
    ![image](https://github.com/user-attachments/assets/15017e59-9ee8-4cda-bd9a-e72c5c5d71ae)
    ![image](https://github.com/user-attachments/assets/94f08aa6-8c08-479c-b461-32750454cf42)
