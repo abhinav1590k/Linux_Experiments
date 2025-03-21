@@ -1,7 +1,7 @@
 1. chown Command -> (a)Change the owner of a file: sudo chown user1 file.txt
       ![image](https://github.com/user-attachments/assets/c80e7cad-f7da-4f3c-911f-8d89fdaf7d0a)
 
-  (b)Change the owner and group of a file: sudo chown user1:usergroup file.txt
+(b)Change the owner and group of a file: sudo chown user1:usergroup file.txt
      ![image](https://github.com/user-attachments/assets/f11ed9eb-a678-4b3c-a073-d43d20589a54)
 
   (c)Change only the group: sudo chown :usergroup file.txt
