@@ -11,12 +11,12 @@
 4. Change the default umask for the operator1 user: ->
     (a)Open the user’s .bashrc or .profile file: sudo nano /home/abhinav/.bashrc
     (b)Add the following line to set the umask: umask 0074
-    ![image](https://github.com/user-attachments/assets/7f3a0433-b360-4511-a2b2-da5e85991bdc)
-    ![image](https://github.com/user-attachments/assets/15017e59-9ee8-4cda-bd9a-e72c5c5d71ae)
-    ![image](https://github.com/user-attachments/assets/94f08aa6-8c08-479c-b461-32750454cf42)
+   ![image](https://github.com/user-attachments/assets/7f3a0433-b360-4511-a2b2-da5e85991bdc)
+   ![image](https://github.com/user-attachments/assets/15017e59-9ee8-4cda-bd9a-e72c5c5d71ae)
+   ![image](https://github.com/user-attachments/assets/94f08aa6-8c08-479c-b461-32750454cf42)
 
 5. Confirm the umask: -> su - abhinav umask
-    ![image](https://github.com/user-attachments/assets/a24da587-5b2d-4f44-8843-cd7f3766bef3)
+   ![image](https://github.com/user-attachments/assets/a24da587-5b2d-4f44-8843-cd7f3766bef3)
 
 
 
