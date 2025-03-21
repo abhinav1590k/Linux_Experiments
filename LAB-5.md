@@ -20,10 +20,10 @@
    (c)Force kill a process: kill -9 1234
    (d)Kill by process name: killall firefox
 
-3. top Command -> top Sort by memory usage: Press M Sort by CPU usage: Press P Kill a process: Press k → Enter the PID Exit top: Press q
+4. top Command -> top Sort by memory usage: Press M Sort by CPU usage: Press P Kill a process: Press k → Enter the PID Exit top: Press q
    ![image](https://github.com/user-attachments/assets/97d301bb-dd0a-4d76-b37d-0f95f09448ca)
 
-4. apt-get Command -> (a)Update package list: sudo apt-get update
+5. apt-get Command -> (a)Update package list: sudo apt-get update
    ![image](https://github.com/user-attachments/assets/0b9ba027-2a9e-4cc3-a428-ed3278fe4a46)
    
    (b)Upgrade installed packages: sudo apt-get upgrade
