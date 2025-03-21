@@ -8,12 +8,13 @@
    ![image](https://github.com/user-attachments/assets/2c55c23d-6a6a-4a72-9b51-879de05091d9)
 
    (d)Filter by process name: ps -C firefox
+   
    ![image](https://github.com/user-attachments/assets/f22d6f2b-19d6-420c-9431-6fb57f64becf)
 
    (f)Show detailed information of a specific process: ps -p 1234 -o pid,ppid,cmd,%mem,%cpu
    ![image](https://github.com/user-attachments/assets/57b998b9-16c1-4439-aed4-a6f45bc55620)
    
-2. kill Command -> (a)Find the PID: ps aux | grep firefox
+3. kill Command -> (a)Find the PID: ps aux | grep firefox
    ![image](https://github.com/user-attachments/assets/5d56ecba-708b-432d-8314-adeebb9d5185)
    
    (b)Kill a process by PID: kill 1234
