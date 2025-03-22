@@ -1,4 +1,4 @@
-			LAB  EXPERIMENT- 2
+		       				LAB  EXPERIMENT- 3
 1. Open the editing_final_lab.txt file in Vim and Nano: -> VIM- vim editing_final_lab.txt NANO- nano editing_final_lab.txt
    ![image](https://github.com/user-attachments/assets/cf168718-5b0d-4fcc-b3f8-020401a5881e)
    ![image](https://github.com/user-attachments/assets/64bc5f4e-15ff-4661-ac7c-1b7f4a64affc)
