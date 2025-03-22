@@ -1,4 +1,4 @@
-			                              LAB  EXPERIMENT- 2
+			                              		LAB  EXPERIMENT- 2
 
 1. ps Command -> (a)Display all running processes: ps aux
    ![image](https://github.com/user-attachments/assets/2cbc1f53-3403-41ca-ae1a-a86df53825d8)
