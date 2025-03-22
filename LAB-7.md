@@ -1,6 +1,7 @@
-1. chown Command -> (a)Change the owner of a file: sudo chown user1 file.txt
+                                    			LAB  EXPERIMENT- 7
 
-    ![image](https://github.com/user-attachments/assets/c80e7cad-f7da-4f3c-911f-8d89fdaf7d0a)
+1. chown Command -> (a)Change the owner of a file: sudo chown user1 file.txt
+   ![image](https://github.com/user-attachments/assets/c80e7cad-f7da-4f3c-911f-8d89fdaf7d0a)
 
   (b)Change the owner and group of a file: sudo chown user1:usergroup file.txt
      ![image](https://github.com/user-attachments/assets/f11ed9eb-a678-4b3c-a073-d43d20589a54)
@@ -19,8 +20,7 @@
 
 
 2. chmod Command -> (a)Give execute permission to the user: chmod u+x file.txt
-
-    ![image](https://github.com/user-attachments/assets/8dbab1cb-3097-442d-b06f-8ab835905c54)
+   ![image](https://github.com/user-attachments/assets/8dbab1cb-3097-442d-b06f-8ab835905c54)
 
   (b)Remove write permission for others: chmod o-w file.txt
      ![image](https://github.com/user-attachments/assets/8c23a8b8-f843-46b4-a3cc-4e09b2510ae3)
