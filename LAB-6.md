@@ -1,4 +1,4 @@
-                                    			                  LAB  EXPERIMENT- 6
+                                    			          LAB  EXPERIMENT- 6
 
 1. Create the operator1 user: -> sudo useradd -m oper1
    ![image](https://github.com/user-attachments/assets/b7f076b4-3ad5-4e17-9a46-23ec6ce19fa1)
