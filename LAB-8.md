@@ -1,3 +1,5 @@
+                                                			LAB  EXPERIMENT- 8
+
 1. Shell Script to Print System Information -> (a)Create a file named system_info.sh:
    ![image](https://github.com/user-attachments/assets/af50ff54-5af1-4e56-824e-cdcc660733a7)
 
